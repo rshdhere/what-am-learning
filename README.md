@@ -1,6 +1,7 @@
 # Reading list
 
-I really like to read engineering blogs from companies whose product I admire/use the most in my day to day life — it's the best way to understand how the engineering teams at the top tech companies function and how they build scalable systems.
+I really like to read engineering blogs from companies whose product I admire/use the most in my day to day life 
+it's the best way to understand how the engineering teams at the top tech companies function and how they build scalable systems.
 
 It also helps me build a strong intuition for system design interviews as I get to know each and every pros and cons of components I will be using.
 
